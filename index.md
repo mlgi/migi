@@ -1,14 +1,13 @@
 # Miguel Christian Sanchez
 ## Table of Contents
-- [Miguel Christian Sanchez](#miguel-christian-sanchez)
-  - [Table of Contents](#table-of-contents)
-  - [1. Skills](#1-skills)
-  - [Introduction](#introduction)
-  - [Significant Projects](#significant-projects)
-    - [CRM (2020)](#crm-2020)
-    - [DejaVu (2018)](#dejavu-2018)
-    - [FileCompression (2017)](#filecompression-2017)
-  - [Skills](#skills)
+  1. [Table of Contents](#table-of-contents)
+  1. [Introduction](#introduction)
+  1. [Significant Projects](#significant-projects)
+     - [CRM (2020)](#crm-2020)
+     - [DejaVu (2018)](#dejavu-2018)
+     - [FileCompression (2017)](#filecompression-2017)
+  1. [Skills](#skills)
+  2. [Current Goals](#current-goals)
 ---
 ## Introduction
 A **UCSD** *BS Computer Science* transfer student aiming to specialize in the machine learning and artificial intelligence field. 
@@ -25,7 +24,9 @@ A basic Customer Resource Management web app made in React and hosted on Firebas
 ### DejaVu (2018)
 [repo](https://github.com/mlgi/DejaVu)
 
-Following several guides and papers linked in the repo, this project implements the basic structure and function of an artificial neural network, a personal endeavor I took during my time in community college.
+![racing cars](screenshots/screenshot.png)
+
+Following several guides and papers linked in the repo, this project implements the basic structure and function of an artificial neural network that using genetic algorithms to train, a personal endeavor I took during my time in community college.
 
 > This project exists to document my creation some sort of neural network library from scratch. I am developing this in order to solidify my understanding of neural networks, not necessarily as a competitor to other existing machine learning libraries out there. 
 
@@ -51,3 +52,11 @@ This project was made to demonstrate understanding of the Huffman Encoding Tree 
   - Matplotlib
 - C# - Unity Game Engine
 - Bash Scripting
+
+---
+## Current Goals
+- [x] Transfer to a University
+- [ ] Update Resume
+- [ ] Get an internship
+- [ ] Graduate
+- [ ] Get a job
