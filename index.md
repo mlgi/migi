@@ -1,4 +1,5 @@
 # Miguel Christian Sanchez
+
 ## Table of Contents
   1. [Table of Contents](#table-of-contents)
   1. [Introduction](#introduction)
@@ -25,11 +26,11 @@ A basic Customer Resource Management web app made in React and hosted on Firebas
 ### DejaVu (2018)
 [repo](https://github.com/mlgi/DejaVu)
 
-![racing cars](screenshots/screenshot.png)
-
 Following several guides and papers linked in the repo, this project implements the basic structure and function of an artificial neural network that using genetic algorithms to train, a personal endeavor I took during my time in community college.
 
 > This project exists to document my creation some sort of neural network library from scratch. I am developing this in order to solidify my understanding of neural networks, not necessarily as a competitor to other existing machine learning libraries out there. 
+
+![racing cars](screenshots/screenshot.png)
 
 ### FileCompression (2017)
 *repo is private due to being class material*
