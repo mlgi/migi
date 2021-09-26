@@ -8,6 +8,7 @@
      - [FileCompression (2017)](#filecompression-2017)
   1. [Skills](#skills)
   2. [Current Goals](#current-goals)
+
 ---
 ## Introduction
 A **UCSD** *BS Computer Science* transfer student aiming to specialize in the machine learning and artificial intelligence field. 
