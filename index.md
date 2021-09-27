@@ -35,7 +35,14 @@ Following several guides and papers linked in the repo, this project implements 
 ### FileCompression (2017)
 *repo is private due to being class material*
 
-This project was made to demonstrate understanding of the Huffman Encoding Tree to compress and decompress any binary file (with an unknown filesize restriction). 
+This project was made to demonstrate understanding of the Huffman Encoding Tree to compress and decompress any binary file (with an unknown filesize restriction). The compiled binaries can be called with 
+```
+./compress <input_file> <output_file>
+``` 
+and
+```
+./decompress <compressed_file> <output_file>
+```
 
 ---
 ## Skills
